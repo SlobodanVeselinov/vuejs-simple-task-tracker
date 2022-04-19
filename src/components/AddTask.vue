@@ -1,5 +1,5 @@
 <template>
-  <div class="px-4 mb-5">
+  <div class="px-4 mb-5 sm:w-1/5 w-full mx-auto">
     <form @submit.prevent="onSubmit">
       <input class="mb-2 border border-blue-500 rounded px-2 py-3 w-full" type="text" v-model="text" name="text" placeholder="Add task" />      
       <input class="mb-2 border border-blue-500 rounded px-2 py-3 w-full" type="text" v-model="day" name="day" placeholder="Set Day and time" />      

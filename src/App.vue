@@ -1,4 +1,5 @@
 <template>
+  <div class="h-screen">
     <Header 
     title="Task Tracker" 
     @toggle-add-task="toggleAddTask"
@@ -11,6 +12,7 @@
       @toggle-reminder="toggleReminder"
     />
     <Footer />
+  </div>
 </template>
 
 <script>
