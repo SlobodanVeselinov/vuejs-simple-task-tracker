@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Take biology exam",
+      "day": "April 30th at 08:30 AM",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Shop for groceries",
+      "day": "April 19th 2022",
+      "reminder": false
+    },
+    {
+      "id": 5,
+      "text": "Do some more learning and coding and get prepared for the interview",
+      "day": "April 21th 2022",
+      "reminder": true
+    },
+    {
+      "text": "Doctors appointment",
+      "day": "April 29th 2022",
+      "reminder": false,
+      "id": 6
+    },
+    {
+      "text": "dfdfdfdf",
+      "day": "dfdsfdsf",
+      "reminder": true,
+      "id": 7
+    }
+  ]
+}
