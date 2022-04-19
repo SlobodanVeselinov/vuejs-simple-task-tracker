@@ -1,5 +1,5 @@
 # task-tracker
-
+<p>For a data storage I have used json server.</p>
 ## Project setup
 ```
 npm install
